@@ -1,3 +1,7 @@
 easyconfigs:
   - Python-3.13.1-GCCcore-14.2.0.eb
   - foss-2025a.eb
+  - libfabric-2.0.0-GCCcore-14.2.0.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25035
+        from-commit: 815c19dc094161d9f696d9933d18e75cfd82110e
