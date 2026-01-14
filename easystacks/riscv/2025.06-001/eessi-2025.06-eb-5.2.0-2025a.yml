@@ -4,4 +4,12 @@ easyconfigs:
   - libfabric-2.0.0-GCCcore-14.2.0.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25035
+  - libfabric-2.0.0-GCCcore-14.2.0.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25035
         from-commit: 815c19dc094161d9f696d9933d18e75cfd82110e
+  - BLIS-1.1-GCC-14.2.0.eb
+  - OpenBLAS-0.3.29-GCC-14.2.0.eb
+  - UCX-1.18.0-GCCcore-14.2.0.eb
+  - PMIx-5.0.6-GCCcore-14.2.0.eb
+  - PRRTE-3.0.8-GCCcore-14.2.0.eb
