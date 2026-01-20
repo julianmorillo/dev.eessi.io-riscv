@@ -1,3 +1,7 @@
 easyconfigs:
   - GCCcore-14.3.0.eb
   - FFTW-3.3.10-GCC-14.3.0.eb
+  - UnZip-6.0-GCCcore-14.3.0.eb
+  - pkgconf-2.4.3-GCCcore-14.3.0.eb
+  - libffi-3.5.1-GCCcore-14.3.0.eb
+  - SQLite-3.50.1-GCCcore-14.3.0.eb
