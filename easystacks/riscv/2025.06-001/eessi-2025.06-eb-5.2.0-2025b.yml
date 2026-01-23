@@ -9,3 +9,4 @@ easyconfigs:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25106
         from-commit: 37e455831442a1b81e000ecae5a7ef2da4559ed5
+  - Meson-1.8.2-GCCcore-14.3.0.eb
