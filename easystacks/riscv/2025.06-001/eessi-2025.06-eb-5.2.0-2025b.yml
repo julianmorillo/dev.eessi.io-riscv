@@ -5,3 +5,7 @@ easyconfigs:
   - pkgconf-2.4.3-GCCcore-14.3.0.eb
   - libffi-3.5.1-GCCcore-14.3.0.eb
   - SQLite-3.50.1-GCCcore-14.3.0.eb
+  - Python-3.13.5-GCCcore-14.3.0.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25106
+        from-commit: 37e455831442a1b81e000ecae5a7ef2da4559ed5
