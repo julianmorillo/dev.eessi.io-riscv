@@ -10,4 +10,5 @@ easyconfigs:
   - PMIx-5.0.6-GCCcore-14.2.0.eb
   - PRRTE-3.0.8-GCCcore-14.2.0.eb
   - FlexiBLAS-3.4.5-GCC-14.2.0.eb
+  - OpenMPI-5.0.7-GCC-14.2.0.eb
   - FFTW-3.3.10-GCC-14.2.0.eb
