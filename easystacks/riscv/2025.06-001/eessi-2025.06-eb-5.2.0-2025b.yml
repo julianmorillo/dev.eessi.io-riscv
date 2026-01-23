@@ -5,3 +5,4 @@ easyconfigs:
   - pkgconf-2.4.3-GCCcore-14.3.0.eb
   - libffi-3.5.1-GCCcore-14.3.0.eb
   - SQLite-3.50.1-GCCcore-14.3.0.eb
+  - CMake-4.0.3-GCCcore-14.3.0.eb
