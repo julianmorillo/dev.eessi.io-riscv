@@ -12,3 +12,4 @@ easyconfigs:
   - Meson-1.8.2-GCCcore-14.3.0.eb
   - BLIS-2.0-GCC-14.3.0.eb
   - CMake-4.0.3-GCCcore-14.3.0.eb
+  - OpenBLAS-0.3.30-GCC-14.3.0.eb
