@@ -14,3 +14,4 @@ easyconfigs:
   - CMake-4.0.3-GCCcore-14.3.0.eb
   - OpenBLAS-0.3.30-GCC-14.3.0.eb
   - OpenMPI-5.0.8-GCC-14.3.0.eb
+  - foss-2025b.eb
