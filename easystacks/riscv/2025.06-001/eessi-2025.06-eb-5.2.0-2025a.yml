@@ -13,3 +13,4 @@ easyconfigs:
   - OpenMPI-5.0.7-GCC-14.2.0.eb
   - FFTW-3.3.10-GCC-14.2.0.eb
   - foss-2025a.eb
+  - OSU-Micro-Benchmarks-7.5-gompi-2025a.eb
