@@ -14,3 +14,4 @@ easyconfigs:
   - FFTW-3.3.10-GCC-14.2.0.eb
   - foss-2025a.eb
   - OSU-Micro-Benchmarks-7.5-gompi-2025a.eb
+  - hypothesis-6.133.2-GCCcore-14.2.0.eb
