@@ -15,3 +15,4 @@ easyconfigs:
   - OpenBLAS-0.3.30-GCC-14.3.0.eb
   - OpenMPI-5.0.8-GCC-14.3.0.eb
   - foss-2025b.eb
+  - Boost-1.88.0-GCC-14.3.0.eb
