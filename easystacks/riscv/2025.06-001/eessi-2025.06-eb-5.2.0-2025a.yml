@@ -19,6 +19,6 @@ easyconfigs:
   - Cython-3.1.1-GCCcore-14.2.0.eb
   - pybind11-2.13.6-GCC-14.2.0.eb
   - spin-0.14-GCCcore-14.2.0.eb
-  - SciPy-bundle-2025.06-gfbf-2025a.eb
+  - SciPy-bundle-2025.06-gfbf-2025a.eb:
       options:
-        from-commit: acd61068e8c743c4fb76105c19f7e62b19ac940e
+        from-commit: 8e1d2441eddbb331de92ae303a78c14db241572e
