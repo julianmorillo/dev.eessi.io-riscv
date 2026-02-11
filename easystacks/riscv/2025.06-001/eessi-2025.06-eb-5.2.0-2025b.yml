@@ -16,3 +16,9 @@ easyconfigs:
   - OpenMPI-5.0.8-GCC-14.3.0.eb
   - foss-2025b.eb
   - Boost-1.88.0-GCC-14.3.0.eb
+  - psutil-7.0.0-GCCcore-14.3.0.eb
+  - lit-18.1.8-GCCcore-14.3.0.eb
+  - expat-2.7.1-GCCcore-14.3.0.eb
+  - git-2.50.1-GCCcore-14.3.0.eb
+  - GMP-6.3.0-GCCcore-14.3.0.eb
+  - Z3-4.15.1-GCCcore-14.3.0.eb
