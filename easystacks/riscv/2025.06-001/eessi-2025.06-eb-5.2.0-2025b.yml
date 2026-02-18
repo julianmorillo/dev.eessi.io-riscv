@@ -22,3 +22,4 @@ easyconfigs:
   - git-2.50.1-GCCcore-14.3.0
   - GMP-6.3.0-GCCcore-14.3.0
   - Z3-4.15.1-GCCcore-14.3.0
+  - Catch2-3.11.0-GCCcore-14.3.0.eb
