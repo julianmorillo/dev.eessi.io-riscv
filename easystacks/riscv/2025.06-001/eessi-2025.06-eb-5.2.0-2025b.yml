@@ -24,3 +24,4 @@ easyconfigs:
   - Z3-4.15.1-GCCcore-14.3.0
   - Catch2-3.11.0-GCCcore-14.3.0.eb
   - Cython-3.1.2-GCCcore-14.3.0.eb
+  - Eigen-3.4.0-GCCcore-14.3.0.eb
