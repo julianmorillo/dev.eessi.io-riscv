@@ -32,3 +32,4 @@ easyconfigs:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25217
         from-commit: 9793e8871ab0c9e635e7b7fc4d06720c62aebb26
 
+  - cffi-1.17.1-GCCcore-14.3.0.eb
