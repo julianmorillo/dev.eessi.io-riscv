@@ -27,3 +27,4 @@ easyconfigs:
   - Eigen-3.4.0-GCCcore-14.3.0.eb
   - OSU-Micro-Benchmarks-7.5.1-gompi-2025b.eb
   - build-1.3.0-GCCcore-14.3.0.eb
+  - flit-3.12.0-GCCcore-14.3.0.eb
