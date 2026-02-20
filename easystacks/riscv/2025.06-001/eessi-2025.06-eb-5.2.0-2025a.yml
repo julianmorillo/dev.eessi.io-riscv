@@ -17,4 +17,5 @@ easyconfigs:
   - hypothesis-6.133.2-GCCcore-14.2.0.eb
   - meson-python-0.18.0-GCCcore-14.2.0.eb
   - Cython-3.1.1-GCCcore-14.2.0.eb
+  - pybind11-2.13.6-GCC-14.2.0.eb
   - spin-0.14-GCCcore-14.2.0.eb
