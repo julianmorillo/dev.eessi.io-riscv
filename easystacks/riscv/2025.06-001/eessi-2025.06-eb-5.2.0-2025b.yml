@@ -35,3 +35,4 @@ easyconfigs:
   - flit-3.12.0-GCCcore-14.3.0.eb
   - cryptography-45.0.5-GCCcore-14.3.0.eb
   - spin-0.14-GCCcore-14.3.0.eb
+  - pybind11-3.0.0-GCC-14.3.0.eb
