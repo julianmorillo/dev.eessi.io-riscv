@@ -1,2 +1,6 @@
 easyconfigs:
   - Boost.MPI-1.88.0-gompi-2025b.eb
+  - LLVM-20.1.8-GCCcore-14.3.0.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25218
+        from-pr: 25218
