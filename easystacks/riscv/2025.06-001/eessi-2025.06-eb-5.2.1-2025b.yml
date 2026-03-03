@@ -1,5 +1,7 @@
 easyconfigs:
+  - Boost.MPI-1.88.0-gompi-2025b.eb
   - ESPResSo-4.2.2-foss-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25386
         from-pr: 25386
+
