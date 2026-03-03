@@ -1,0 +1,4 @@
+easyconfigs:
+  - SciPy-bundle-2025.07-gfbf-2025b.eb:
+      options:
+        parallel: "1"
