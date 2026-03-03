@@ -1,4 +1,8 @@
 easyconfigs:
   - Boost.MPI-1.88.0-gompi-2025b.eb
-  - netCDF-4.9.3-gompi-2025b.eb
-
+  - netCDF-4.9.3-gompi-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25490
+        from-commit: 5dd2cf6ddc91eb2d6692862f4322e1c00f63408c
+        # see https://github.com/easybuilders/easybuild-easyblocks/pull/4086
+        include-easyblocks-from-commit: 83383a2d86dd4b886fb674d620fc34386d73a78d
