@@ -1,4 +1,4 @@
 easyconfigs:
   - Boost.MPI-1.88.0-gompi-2025b.eb
   - gfbf-2025b.eb
-  - glslang-SPIRV-15.4.0-GCCcore-14.3.0
+  - glslang-SPIRV-15.4.0-GCCcore-14.3.0.eb
