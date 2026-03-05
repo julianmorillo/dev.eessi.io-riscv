@@ -1,7 +1,7 @@
 easyconfigs:
   - Boost.MPI-1.88.0-gompi-2025b.eb
+  - gfbf-2025b.eb
   - SciPy-bundle-2025.07-gfbf-2025b.eb:
       options:
         from-pr: 25495
         parallel: "1"
-
