@@ -6,3 +6,4 @@ easyconfigs:
   - glslang-SPIRV-15.4.0-GCCcore-14.3.0.eb
   - jedi-0.19.2-GCCcore-14.3.0.eb
   - ZeroMQ-4.3.5-GCCcore-14.3.0.eb
+  - lxml-6.0.0-GCCcore-14.3.0.eb
