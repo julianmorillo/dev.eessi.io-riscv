@@ -7,5 +7,8 @@ easyconfigs:
   - jedi-0.19.2-GCCcore-14.3.0.eb
   - ZeroMQ-4.3.5-GCCcore-14.3.0.eb
   - lxml-6.0.0-GCCcore-14.3.0.eb
+  - Wayland-1.24.0-GCCcore-14.3.0.eb
+  - Brotli-1.1.0-GCCcore-14.3.0.eb
+  - libunwind-1.8.2-GCCcore-14.3.0.eb
+  - libdrm-2.4.125-GCCcore-14.3.0.eb
   - nettle-3.10.2-GCCcore-14.3.0.eb
-
