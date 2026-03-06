@@ -10,3 +10,4 @@ easyconfigs:
   - Wayland-1.24.0-GCCcore-14.3.0.eb
   - Brotli-1.1.0-GCCcore-14.3.0.eb
   - libunwind-1.8.2-GCCcore-14.3.0.eb
+  - libdrm-2.4.125-GCCcore-14.3.0.eb
