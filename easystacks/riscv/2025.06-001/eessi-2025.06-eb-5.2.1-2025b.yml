@@ -1,10 +1,16 @@
 easyconfigs:
   - Boost.MPI-1.88.0-gompi-2025b.eb
   - gfbf-2025b.eb
-  - Mako-1.3.10-GCCcore-14.3.0
+  - Mako-1.3.10-GCCcore-14.3.0.eb
   - Pint-0.25-GCCcore-14.3.0.eb
   - glslang-SPIRV-15.4.0-GCCcore-14.3.0.eb
   - jedi-0.19.2-GCCcore-14.3.0.eb
   - ZeroMQ-4.3.5-GCCcore-14.3.0.eb
   - lxml-6.0.0-GCCcore-14.3.0.eb
+  - Wayland-1.24.0-GCCcore-14.3.0.eb
+  - Brotli-1.1.0-GCCcore-14.3.0.eb
+  - libunwind-1.8.2-GCCcore-14.3.0.eb
+  - libdrm-2.4.125-GCCcore-14.3.0.eb
+  - nettle-3.10.2-GCCcore-14.3.0.eb
   - IPython-9.4.0-GCCcore-14.3.0.eb
+
