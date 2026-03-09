@@ -12,9 +12,11 @@ easyconfigs:
   - libunwind-1.8.2-GCCcore-14.3.0.eb
   - libdrm-2.4.125-GCCcore-14.3.0.eb
   - nettle-3.10.2-GCCcore-14.3.0.eb
+  - IPython-9.4.0-GCCcore-14.3.0.eb
   - LLVM-20.1.8-GCCcore-14.3.0.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25218
         from-pr: 25218
         # see https://github.com/easybuilders/easybuild-easyblocks/pull/4059
         include-easyblocks-from-commit: b300503e0fc7ce1a4ca68f207f171f0a9604bd89
+
