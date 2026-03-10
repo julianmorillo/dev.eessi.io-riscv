@@ -38,7 +38,7 @@ easyconfigs:
   - pybind11-3.0.0-GCC-14.3.0.eb
   - meson-python-0.18.0-GCCcore-14.3.0.eb
   - hypothesis-6.136.6-GCCcore-14.3.0.eb
-   - archspec-0.2.5-GCCcore-14.3.0.eb
+  - archspec-0.2.5-GCCcore-14.3.0.eb
   - libpng-1.6.50-GCCcore-14.3.0.eb
   - NASM-2.16.03-GCCcore-14.3.0.eb
   - PCRE-8.45-GCCcore-14.3.0.eb
