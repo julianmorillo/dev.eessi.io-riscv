@@ -16,7 +16,7 @@ easyconfigs:
   - LLVM-20.1.8-GCCcore-14.3.0.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25218
-        from-pr: 25218
+        from-commit: 89117c863afd27a9242d521a56ffd737cef08685
         # see https://github.com/easybuilders/easybuild-easyblocks/pull/4059
         include-easyblocks-from-commit: b300503e0fc7ce1a4ca68f207f171f0a9604bd89
 
