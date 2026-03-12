@@ -15,4 +15,4 @@ easyconfigs:
   - IPython-9.4.0-GCCcore-14.3.0.eb
   - Abseil-20250512.1-GCCcore-14.3.0.eb
   - absl-py-2.3.1-GCCcore-14.3.0.eb
-
+  - elfutils-0.193-GCCcore-14.3.0.eb
