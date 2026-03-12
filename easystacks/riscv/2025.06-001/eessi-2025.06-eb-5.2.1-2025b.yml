@@ -13,6 +13,8 @@ easyconfigs:
   - libdrm-2.4.125-GCCcore-14.3.0.eb
   - nettle-3.10.2-GCCcore-14.3.0.eb
   - IPython-9.4.0-GCCcore-14.3.0.eb
+  - Abseil-20250512.1-GCCcore-14.3.0.eb
+  - absl-py-2.3.1-GCCcore-14.3.0.eb
   - BCFtools-1.22-GCC-14.3.0.eb
   - BWA-0.7.19-GCCcore-14.3.0.eb
   - BamTools-2.5.3-GCC-14.3.0.eb
