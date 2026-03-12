@@ -14,4 +14,5 @@ easyconfigs:
   - nettle-3.10.2-GCCcore-14.3.0.eb
   - IPython-9.4.0-GCCcore-14.3.0.eb
   - Abseil-20250512.1-GCCcore-14.3.0.eb
+  - absl-py-2.3.1-GCCcore-14.3.0.eb
 
