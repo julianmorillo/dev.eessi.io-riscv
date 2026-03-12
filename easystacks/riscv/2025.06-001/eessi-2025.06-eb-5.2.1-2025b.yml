@@ -20,7 +20,4 @@ easyconfigs:
   - BamTools-2.5.3-GCC-14.3.0.eb
   - BeautifulSoup-4.14.2-GCCcore-14.3.0.eb
   - BioPerl-1.7.8-GCCcore-14.3.0.eb
-  - Biopython-1.86-gfbf-2025b.eb
-  - Boost.Python-1.88.0-GCC-14.3.0.eb
-  - Brunsli-0.1-GCCcore-14.3.0.eb
 
