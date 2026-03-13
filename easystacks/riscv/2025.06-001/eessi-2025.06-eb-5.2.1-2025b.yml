@@ -15,9 +15,9 @@ easyconfigs:
   - IPython-9.4.0-GCCcore-14.3.0.eb
   - Abseil-20250512.1-GCCcore-14.3.0.eb
   - absl-py-2.3.1-GCCcore-14.3.0.eb
+  - elfutils-0.193-GCCcore-14.3.0.eb
   - aiohttp-3.12.15-GCCcore-14.3.0.eb
   - alsa-lib-1.2.14-GCCcore-14.3.0.eb
   - ANTLR-2.7.7-GCCcore-14.3.0.eb
   - ant-1.10.15-Java-21.eb
   - arpack-ng-3.9.1-foss-2025b.eb
-
