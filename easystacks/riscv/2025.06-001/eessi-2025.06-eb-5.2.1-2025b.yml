@@ -26,3 +26,10 @@ easyconfigs:
   - BamTools-2.5.3-GCC-14.3.0.eb
   - BeautifulSoup-4.14.2-GCCcore-14.3.0.eb
   - BioPerl-1.7.8-GCCcore-14.3.0.eb
+  - netCDF-4.9.3-gompi-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25490
+        from-commit: 7be18a12bcd757ce3ae0c44ee2f4418427b23633
+        # see https://github.com/easybuilders/easybuild-easyblocks/pull/4086
+        include-easyblocks-from-commit: df3ca300d7f9193241e6bee2be3d58b103323725
+
