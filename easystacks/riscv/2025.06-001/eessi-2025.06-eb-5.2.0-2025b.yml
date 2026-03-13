@@ -52,4 +52,4 @@ easyconfigs:
   - MDI-1.4.35-gompi-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25379
-        from-pr: 25379
+        from-commit: 0ccbe93cd21d1da2599085288674c2eafe919851
