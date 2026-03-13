@@ -15,11 +15,10 @@ easyconfigs:
   - IPython-9.4.0-GCCcore-14.3.0.eb
   - Abseil-20250512.1-GCCcore-14.3.0.eb
   - absl-py-2.3.1-GCCcore-14.3.0.eb
+  - elfutils-0.193-GCCcore-14.3.0.eb
   - netCDF-4.9.3-gompi-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25490
         from-commit: 7be18a12bcd757ce3ae0c44ee2f4418427b23633
         # see https://github.com/easybuilders/easybuild-easyblocks/pull/4086
         include-easyblocks-from-commit: df3ca300d7f9193241e6bee2be3d58b103323725
-
-
