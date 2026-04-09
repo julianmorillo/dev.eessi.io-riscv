@@ -45,3 +45,4 @@ easyconfigs:
   - CoinUtils-2.11.12-GCC-14.3.0.eb
   - CubeLib-4.9.1-GCCcore-14.3.0.eb
   - CubeWriter-4.9.1-GCCcore-14.3.0.eb
+  - Qt6-6.9.3-GCCcore-14.3.0.eb
