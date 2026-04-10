@@ -48,4 +48,4 @@ easyconfigs:
   - waLBerla-7.2-foss-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25382
-        from-pr: 25382
+        from-commit: 148f8e21b1ee6abadb4d179449921509b70ef73a
