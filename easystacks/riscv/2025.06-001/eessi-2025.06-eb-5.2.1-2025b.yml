@@ -45,6 +45,10 @@ easyconfigs:
   - CoinUtils-2.11.12-GCC-14.3.0.eb
   - CubeLib-4.9.1-GCCcore-14.3.0.eb
   - CubeWriter-4.9.1-GCCcore-14.3.0.eb
+  - waLBerla-7.2-foss-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25382
+        from-commit: 148f8e21b1ee6abadb4d179449921509b70ef73a
   - re2c-4.3-GCCcore-14.3.0.eb
   - PCRE2-10.45-GCCcore-14.3.0.eb
   - GLib-2.85.3-GCCcore-14.3.0.eb
