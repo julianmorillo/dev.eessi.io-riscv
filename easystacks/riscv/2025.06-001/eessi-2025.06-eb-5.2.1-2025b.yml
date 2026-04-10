@@ -45,3 +45,7 @@ easyconfigs:
   - CoinUtils-2.11.12-GCC-14.3.0.eb
   - CubeLib-4.9.1-GCCcore-14.3.0.eb
   - CubeWriter-4.9.1-GCCcore-14.3.0.eb
+  - tbb-2022.2.0-GCCcore-14.3.0.eb
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25738
+        from-commit: 8a2a24bd3609c03546eac7c547fc6a791bc7588d
