@@ -45,13 +45,35 @@ easyconfigs:
   - CoinUtils-2.11.12-GCC-14.3.0.eb
   - CubeLib-4.9.1-GCCcore-14.3.0.eb
   - CubeWriter-4.9.1-GCCcore-14.3.0.eb
+  - waLBerla-7.2-foss-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25382
+        from-commit: 148f8e21b1ee6abadb4d179449921509b70ef73a
+  - re2c-4.3-GCCcore-14.3.0.eb
+  - PCRE2-10.45-GCCcore-14.3.0.eb
+  - GLib-2.85.3-GCCcore-14.3.0.eb
+  - jbigkit-2.1-GCCcore-14.3.0.eb
+  - libdeflate-1.24-GCCcore-14.3.0.eb
+  - giflib-5.2.2-GCCcore-14.3.0.eb
+  - LibTIFF-4.7.0-GCCcore-14.3.0.eb
+  - libwebp-1.5.0-GCCcore-14.3.0.eb
+  - graphite2-1.3.14-GCCcore-14.3.0.eb
+  - assimp-6.0.2-GCCcore-14.3.0.eb
+  - fonttools-4.58.5-GCCcore-14.3.0.eb
+  - Voro++-0.4.6-GCCcore-14.3.0.eb
+  - ffnvcodec-13.0.19.0.eb
+  - kim-api-2.4.1-GCC-14.3.0.eb
+  - x264-20250831-GCCcore-14.3.0.eb
+  - LAME-3.100-GCCcore-14.3.0.eb
+  - xxd-9.1.1775-GCCcore-14.3.0.eb
+  - PLUMED-2.9.4-foss-2025b.eb
+  - mpi4py-4.1.0-gompi-2025b.eb
+  - dav1d-1.5.2-GCCcore-14.3.0.eb
+  - CMake-3.31.8-GCCcore-14.3.0.eb
+  - x265-4.1-GCCcore-14.3.0.eb
   - LLVM-20.1.8-GCCcore-14.3.0.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25218
         from-commit: 89117c863afd27a9242d521a56ffd737cef08685
         # see https://github.com/easybuilders/easybuild-easyblocks/pull/4059
         include-easyblocks-from-commit: b300503e0fc7ce1a4ca68f207f171f0a9604bd89
-
-
-
-
