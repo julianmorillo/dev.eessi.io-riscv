@@ -49,8 +49,11 @@ easyconfigs:
   - libjpeg-turbo-3.1.1-GCCcore-14.3.0
   - Szip-2.1.1-GCCcore-14.3.0.eb
   - HDF5-1.14.6-gompi-2025b.eb
+  - MDI-1.4.35-gompi-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25379
+        from-commit: 0ccbe93cd21d1da2599085288674c2eafe919851
   - llvm-compilers-20.1.8.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25218
         from-pr: 25218
-
