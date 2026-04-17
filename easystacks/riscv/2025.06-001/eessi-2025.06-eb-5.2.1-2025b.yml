@@ -80,4 +80,7 @@ easyconfigs:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25733
         from-commit: 24c0a3fad6c850d88a6daacbd2e2da994138af13
   - ELPA-2025.06.002-foss-2025b.eb
-  - Extrae-5.0.0-gompi-2025b.eb
+  - Extrae-5.0.0-gompi-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25798
+        from-commit: f407d57f46c1c3643484dceddde055f8212c1d0d
