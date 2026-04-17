@@ -82,4 +82,4 @@ easyconfigs:
   - Dyninst-13.0.0-GCC-14.3.0.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25765
-        from-commit: 6c5e57e3426d4419e0e8d8bbe358a03fcffc226c 
+        from-commit: 62647704acbb28e0d43d5619bddc7753c97d07a6 
