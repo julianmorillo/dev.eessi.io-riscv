@@ -85,4 +85,5 @@ easyconfigs:
         from-commit: 89117c863afd27a9242d521a56ffd737cef08685
         # see https://github.com/easybuilders/easybuild-easyblocks/pull/4059
         include-easyblocks-from-commit: b300503e0fc7ce1a4ca68f207f171f0a9604bd89
+  - OpenGL-2025.09-GCCcore-14.3.0.eb
   - Qt6-6.9.3-GCCcore-14.3.0.eb
