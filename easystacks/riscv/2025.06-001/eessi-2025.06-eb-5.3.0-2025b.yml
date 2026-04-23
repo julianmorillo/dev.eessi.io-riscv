@@ -1,3 +1,5 @@
 easyconfigs:
   - ELPA-2025.06.002-foss-2025b.eb
   - lfbf-2025b.eb
+  - Boost.MPI-1.88.0-gompi-2025b.eb
+  - gfbf-2025b.eb
