@@ -1,7 +1,7 @@
 easyconfigs:
   - ELPA-2025.06.002-foss-2025b.eb
   - lfbf-2025b.eb
-  - SVT-AV1-3.1.2-GCCcore.eb
+  - SVT-AV1-3.1.2-GCCcore-14.3.0.eb
   - snappy-1.2.2-GCCcore-14.3.0.eb
   - libaom-3.10.0-GCCcore-14.3.0.eb
   - NSPR-4.37-GCCcore-14.3.0.eb
