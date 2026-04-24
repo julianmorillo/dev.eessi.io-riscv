@@ -89,4 +89,4 @@ easyconfigs:
   - ESPResSo-4.2.2-foss-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25386
-        from-pr: 25386
+        from-commit: 2bad2c1469920fb4c8e9f755b08efe6982b129ec
