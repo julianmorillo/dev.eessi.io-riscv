@@ -21,3 +21,7 @@ easyconfigs:
   - cairo-1.18.4-GCCcore-14.3.0.eb
   - GObject-Introspection-1.84.0-GCCcore-14.3.0.eb
   - HarfBuzz-11.4.1-GCCcore-14.3.0.eb
+  - OpenMPI-5.0.8-llvm-compilers-20.1.8.eb:
+      options:
+        #see https://github.com/easybuilders/easybuild-easyconfigs/pull/25838
+        from-commit: 6aa82e98da92af537e42e198075eddfb0d4216ae
