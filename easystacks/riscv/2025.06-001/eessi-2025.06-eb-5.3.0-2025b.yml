@@ -25,3 +25,4 @@ easyconfigs:
       options:
         #see https://github.com/easybuilders/easybuild-easyconfigs/pull/25838
         from-commit: 6aa82e98da92af537e42e198075eddfb0d4216ae
+  - lompi-2025b.eb
