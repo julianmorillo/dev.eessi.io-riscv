@@ -17,3 +17,12 @@ easyconfigs:
   - libde265-1.0.16-GCCcore-14.3.0.eb
   - FFmpeg-7.1.2-GCCcore-14.3.0.eb
   - NSS-3.114-GCCcore-14.3.0.eb
+  - nodejs-22.17.1-GCCcore-14.3.0.eb
+  - pixman-0.46.4-GCCcore-14.3.0.eb
+  - cairo-1.18.4-GCCcore-14.3.0.eb
+  - GObject-Introspection-1.84.0-GCCcore-14.3.0.eb
+  - Gdk-Pixbuf-2.42.12-GCCcore-14.3.0.eb
+  - HarfBuzz-11.4.1-GCCcore-14.3.0.eb
+  - libheif-1.20.2-GCCcore-14.3.0.eb
+  - JasPer/4.2.8-GCCcore-14.3.0.eb
+
