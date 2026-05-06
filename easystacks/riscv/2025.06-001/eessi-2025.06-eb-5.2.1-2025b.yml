@@ -85,6 +85,11 @@ easyconfigs:
         from-commit: 89117c863afd27a9242d521a56ffd737cef08685
         # see https://github.com/easybuilders/easybuild-easyblocks/pull/4059
         include-easyblocks-from-commit: b300503e0fc7ce1a4ca68f207f171f0a9604bd89
+  - OpenGL-2025.09-GCCcore-14.3.0.eb
+  - ESPResSo-4.2.2-foss-2025b.eb:
+      options:
+        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25386
+        from-commit: 2bad2c1469920fb4c8e9f755b08efe6982b129ec
   - Extrae-5.0.0-gompi-2025b.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/25798
