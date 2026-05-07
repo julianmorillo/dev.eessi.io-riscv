@@ -27,3 +27,8 @@ easyconfigs:
         from-commit: 6aa82e98da92af537e42e198075eddfb0d4216ae
   - lompi-2025b.eb
   - lfoss-2025b.eb
+  - nodejs-22.17.1-GCCcore-14.3.0.eb
+  - Gdk-Pixbuf-2.42.12-GCCcore-14.3.0.eb
+  - libheif-1.20.2-GCCcore-14.3.0.eb
+  - JasPer-4.2.8-GCCcore-14.3.0.eb
+
