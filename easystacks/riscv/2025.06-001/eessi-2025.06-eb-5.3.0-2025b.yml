@@ -31,4 +31,6 @@ easyconfigs:
   - Gdk-Pixbuf-2.42.12-GCCcore-14.3.0.eb
   - libheif-1.20.2-GCCcore-14.3.0.eb
   - JasPer-4.2.8-GCCcore-14.3.0.eb
-
+  - Check-0.15.2-GCCcore-14.3.0.eb
+  - libevdev-1.13.6-GCCcore-14.3.0.eb
+  - libinput-1.30.1-GCCcore-14.3.0.eb
