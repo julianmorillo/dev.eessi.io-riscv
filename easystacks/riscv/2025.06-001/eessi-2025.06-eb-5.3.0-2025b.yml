@@ -42,3 +42,4 @@ easyconfigs:
   - at-spi2-atk-2.38.0-GCCcore-14.3.0.eb
   - libepoxy-1.5.10-GCCcore-14.3.0.eb
   - GTK3-3.24.43-GCCcore-14.3.0.eb
+  - LLVM-23.0.0git-GCCcore-14.3.0-EPI-20260515.eb
