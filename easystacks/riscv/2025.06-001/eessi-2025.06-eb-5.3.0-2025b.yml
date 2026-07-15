@@ -51,5 +51,5 @@ easyconfigs:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/26078
         from-pr: 26078
-        # see https://github.com/easybuilders/easybuild-easyblocks/pull/4059
-        include-easyblocks-from-commit: 92d4384d79261d5c56d08c5e9f8b3f29048bbd4a
+        # see https://github.com/easybuilders/easybuild-easyblocks/pull/4178
+        include-easyblocks-from-pr: 4178
