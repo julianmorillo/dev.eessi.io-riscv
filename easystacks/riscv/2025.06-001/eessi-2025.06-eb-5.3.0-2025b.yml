@@ -47,9 +47,3 @@ easyconfigs:
         #see https://github.com/easybuilders/easybuild-easyconfigs/pull/25879
         from-commit: db4ee5dd0bcc8a22a8c9db2191daaa66bcd14cae
   - HPL-2.3-foss-2025b.eb
-  - LLVM-23.0.0git-llvm-compilers-20.1.8-EPI-20260515.eb:
-      options:
-        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/26078
-        from-pr: 26078
-        # see https://github.com/easybuilders/easybuild-easyblocks/pull/4178
-        include-easyblocks-from-pr: 4178
