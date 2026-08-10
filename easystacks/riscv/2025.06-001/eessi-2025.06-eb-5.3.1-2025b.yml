@@ -1,5 +1,5 @@
 easyconfigs:
-  - LLVM-23.0.0git-llvm-compilers-20.1.8-EPI-20260515.eb:
+  - LLVM-23.0.0git-llvm-compilers-20.1.8-EPI-20260807.eb:
       options:
         # see https://github.com/easybuilders/easybuild-easyconfigs/pull/26078
         from-pr: 26078
