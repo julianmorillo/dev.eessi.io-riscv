@@ -47,3 +47,4 @@ easyconfigs:
         #see https://github.com/easybuilders/easybuild-easyconfigs/pull/25879
         from-commit: db4ee5dd0bcc8a22a8c9db2191daaa66bcd14cae
   - HPL-2.3-foss-2025b.eb
+  - dlb-3.6.0-gompi-2025b.eb
